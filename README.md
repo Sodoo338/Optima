@@ -81,7 +81,7 @@
   </section>
 
   <section>
-    <h2>Profitability & Future Outlook</h2>
+    <h2>Profitability &amp; Future Outlook</h2>
     <p>
       Optima not only transforms lives but also offers a smart, sustainable business model:
     </p>
