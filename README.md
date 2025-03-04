@@ -5,100 +5,72 @@
   <title>Optima: Unleash Your Potential with Your Personal AI Coach</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Optima - Unleash Your Potential: Transform your life with personalized AI coaching that boosts productivity, builds habits, and guides you to success.">
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
   <style>
-    body {
-      font-family: 'Roboto', sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 0;
-      background: linear-gradient(to right, #8e44ad, #3498db);
-      color: #333;
-    }
-    .container {
-      max-width: 800px;
-      margin: 40px auto;
-      padding: 20px;
-      background: rgba(255, 255, 255, 0.95);
-      border-radius: 8px;
-      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    }
-    header, section, footer {
-      margin-bottom: 20px;
-      text-align: center;
-    }
-    h1 {
-      color: #fff;
-      font-size: 2.5em;
-      margin-bottom: 10px;
-    }
-    h2 {
-      color: #2c3e50;
-      font-size: 2em;
-      margin-bottom: 10px;
-    }
-    p {
-      color: #555;
-      font-size: 1.1em;
-      margin-bottom: 10px;
-    }
-    ul {
-      list-style: disc;
-      margin: 0 auto 10px;
-      padding-left: 20px;
-      text-align: left;
-      color: #555;
-    }
-    button {
-      background: #f39c12;
-      color: white;
-      border: none;
-      padding: 12px 24px;
-      border-radius: 4px;
-      cursor: pointer;
-      font-size: 1em;
-      text-decoration: none;
-    }
-    button:hover {
-      background: #e67e22;
-    }
-    footer p {
-      color: #fff;
-    }
+    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; color: #333; }
+    header, section, footer { margin-bottom: 20px; }
+    h1, h2 { color: #2c3e50; }
+    ul { list-style: disc; margin-left: 20px; }
+    button { background: #007BFF; color: #fff; border: none; padding: 10px 20px; border-radius: 4px; cursor: pointer; font-size: 1em; }
+    button a { color: #fff; text-decoration: none; }
   </style>
 </head>
 <body>
-  <div class="container">
-    <header>
-      <h1>Optima: Your Personal AI Coach</h1>
-      <p>Unlock your potential with intelligent, personalized coaching.</p>
-      <button onclick="window.location.href='#how-it-works'">Learn More</button>
-    </header>
+  <header>
+    <h1>Optima: Unleash Your Potential</h1>
+    <p>Your Personal AI Coach</p>
+  </header>
 
-    <section id="how-it-works">
-      <h2>How It Works</h2>
-      <p>Set your goals and let Optima track your habits, analyze your daily routine, and provide personalized recommendations to boost your productivity and well-being.</p>
-    </section>
+  <section>
+    <h2>Welcome to Optima</h2>
+    <p>
+      Optima is an innovative AI-powered coaching app designed to help you achieve your personal and professional goals. Our app seamlessly integrates into your daily routine, guiding you to boost productivity, build healthier habits, and manage your time more effectively.
+    </p>
+  </section>
 
-    <section>
-      <h2>Advanced AI Features</h2>
-      <p>Our state-of-the-art AI offers:</p>
-      <ul>
-        <li>Machine learning for tailored insights</li>
-        <li>Real-time analysis for instant feedback</li>
-        <li>Adaptive coaching as your needs evolve</li>
-      </ul>
-    </section>
+  <section>
+    <h2>How It Works</h2>
+    <p>
+      Begin by setting your personal goals. Optima tracks your daily activities and uses intelligent algorithms to provide tailored advice. As the app learns from your habits, it suggests adjustments to enhance your productivity and overall well-being.
+    </p>
+  </section>
 
-    <section>
-      <h2>Join the Revolution</h2>
-      <p>Start your journey toward better habits and a brighter future today!</p>
-      <button onclick="window.location.href='https://github.com'">Visit GitHub</button>
-    </section>
+  <section>
+    <h2>Advanced AI Features</h2>
+    <p>
+      Our cutting-edge AI technology offers real-time analysis and adaptive coaching. As you interact with the app, it continuously refines its recommendations based on your behavior and evolving needs, ensuring you receive the most relevant insights.
+    </p>
+    <p>Key features include:</p>
+    <ul>
+      <li>Machine learning that adapts to your routines</li>
+      <li>Instant feedback to keep you on track</li>
+      <li>Customizable coaching based on your progress</li>
+    </ul>
+  </section>
 
-    <footer>
-      <p>&copy; 2025 Optima. All rights reserved.</p>
-    </footer>
-  </div>
+  <section>
+    <h2>How You Benefit</h2>
+    <p>
+      With Optima, you'll enjoy enhanced productivity and improved well-being. Our personalized guidance helps you overcome distractions and adopt routines that foster success, acting as your continuous personal coach.
+    </p>
+  </section>
+
+  <section>
+    <h2>Profitability & Future Outlook</h2>
+    <p>
+      Optima offers a flexible pricing model, with a free version featuring essential insights and a premium plan at just $5/month for advanced functionality. As the market for personal development tools grows, our app is set to continuously innovate and expand.
+    </p>
+  </section>
+
+  <section>
+    <h2>Join the Revolution in Personal Coaching</h2>
+    <p>
+      Unlock your full potential with Optima. Transform your daily routines, achieve your goals, and join thousands of users on the journey to success.
+    </p>
+    <button><a href="https://www.optima.com/signup">Sign Up Now</a></button>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Optima. All rights reserved.</p>
+  </footer>
 </body>
 </html>
